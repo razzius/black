@@ -1,3 +1,11 @@
+<h2 align="center">Gray, the compromised Code Formatter</h2>
+
+Prefers single quotes over double.
+
+Installation: `pip install https://github.com/razzius/gray/archive/master.zip`
+
+Black README below...
+
 ![Black Logo](https://raw.githubusercontent.com/psf/black/master/docs/_static/logo2-readme.png)
 <h2 align="center">The Uncompromising Code Formatter</h2>
 
