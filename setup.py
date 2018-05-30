@@ -65,8 +65,8 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "black=black:patched_main",
-            "blackd=blackd:patched_main [d]",
+            "gray=black:patched_main",
+            "grayd=blackd:patched_main [d]",
         ]
     },
 )
