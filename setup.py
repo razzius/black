@@ -26,15 +26,15 @@ def get_version() -> str:
 
 
 setup(
-    name="black",
+    name="gray",
     version=get_version(),
-    description="The uncompromising code formatter.",
+    description="The compromised code formatter.",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     keywords="automation formatter yapf autopep8 pyfmt gofmt rustfmt",
     author="Łukasz Langa",
     author_email="lukasz@langa.pl",
-    url="https://github.com/psf/black",
+    url="https://github.com/razzius/gray",
     license="MIT",
     py_modules=["black", "blackd"],
     packages=["blib2to3", "blib2to3.pgen2"],
